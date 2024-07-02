@@ -4,8 +4,8 @@ import { NavLink } from 'react-router-dom';
 const Navbar = () => {
     const links = <>
     <li className="font-bold text-indigo-800 "> <NavLink to="/">Home</NavLink></li>
-    <li className="font-bold text-indigo-800"> <NavLink to="/featuredblog">Hire Me</NavLink> </li>
-    <li className="font-bold text-indigo-800"> <NavLink to="/allblog">My Works</NavLink> </li>
+    <li className="font-bold text-indigo-800"> <NavLink to="/hireMe">Hire Me</NavLink> </li>
+    <li className="font-bold text-indigo-800"> <NavLink to="/projects">My Works</NavLink> </li>
    </>
     return (
         <div className='container mx-auto'>
