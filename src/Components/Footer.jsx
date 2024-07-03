@@ -22,7 +22,7 @@ const Footer = () => {
           </div>
         </nav>
         <aside>
-          <p className='text-white'>Copyright © ${new Date().getFullYear()} - All right reserved </p>
+          <p className='text-white'>Copyright © ${new Date().getFullYear()} -Shanjida Jahan Jeem All right reserved </p>
         </aside>
       </footer>
     );
