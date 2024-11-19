@@ -20,7 +20,7 @@ const Banner = () => {
           <p className='text-xl text-start'>Although I don't have professional work experience yet, I have completed numerous projects that demonstrate my ability to deliver high-quality web solutions. You can explore my code and projects on GitHub.</p>
         </div>
         <div className='my-12 flex justify-start'>
-            <a href="https://drive.google.com/file/d/1h4mP969Tcjhc4jiCS5Dy0h8-yogMOFOX/view?usp=drive_link" download className='btn bg-[#FF5400] text-white flex items-center'>
+            <a href="https://drive.google.com/file/d/1vOGVoW7iLBrkuJ_JddIRvv813VqzqdpC/view?usp=drive_link" download className='btn bg-[#FF5400] text-white flex items-center'>
                 <FaDownload className="mr-2" /> My Resume
             </a>
         </div>
