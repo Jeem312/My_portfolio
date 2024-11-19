@@ -10,7 +10,7 @@ const Hireme = () => {
                 <div className='flex-1'>
                     <h1 className='text-5xl font-bold' style={{ paddingTop: '5rem', margin: 'auto 0', fontWeight: 'normal' }}>
                         Let's
-                        <span className='mx-2' style={{ color: 'black', fontWeight: 'bold' }}>
+                        <span className='mx-2' style={{ color: 'white', fontWeight: 'bold' }}>
                             {/* Style will be inherited from the parent element */}
                             <Typewriter
                                 words={['Work Together']}
